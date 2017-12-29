@@ -1,5 +1,24 @@
 package me.SkyFighter.com;
 
-public class Main {
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class Main extends JavaPlugin
+{
+	@Override
+	public void onEnable()
+	{
+		setup();
+	}
+	
+	@Override
+	public void onDisable()
+	{
+
+	}
+	
+	private void setup()
+	{
+		
+	}
+	
 }
