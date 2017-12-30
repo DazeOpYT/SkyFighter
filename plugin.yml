@@ -1,0 +1,7 @@
+main: me.SkyFighter.com.Main
+name: SkyFighter
+version: 1.0
+author: [Pieter Herlitska, Thomas Herlitska]
+commands:
+ skyfighter:
+   description: SkyFighter command
